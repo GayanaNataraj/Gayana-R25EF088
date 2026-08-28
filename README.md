@@ -2,3 +2,6 @@ Hi, I am Gayana Nataraj, a Computer Science and Engineering student. This reposi
 Learning C and C++
 Interested in software development
 Goal: build useful software projects
+## Projects
+
+I plan to build useful software projects to improve my programming and problem-solving skills.
